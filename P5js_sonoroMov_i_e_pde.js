@@ -5,7 +5,7 @@ Based on code from beginContour() reference
  */
 /*
  Alterado por Rodrigo Rezende em 08/2020
- para servir de base na obra SonoroMov(i)e V1.0
+ para servir de base na obra SonoroMov(i)e V1.0.
  */
 //====================================================//
 
