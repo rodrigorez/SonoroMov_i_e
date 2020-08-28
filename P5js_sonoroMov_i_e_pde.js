@@ -24,8 +24,8 @@ let revealSizeY = 0;
 let img;
 
 function preload() {
-  img = loadImage('https://rodrigorez.github.io/SonoroMov_i_e/img/img.jpg');
-//  img = loadImage('/img/img.jpg');
+//   img = loadImage('https://rodrigorez.github.io/SonoroMov_i_e/img/img.jpg');
+ img = loadImage('img.jpg');
 }
 
 function setup() {
