@@ -24,7 +24,7 @@ let revealSizeY = 0;
 let img;
 
 function preload() {
-  img = loadImage('img.png');
+  img = loadImage('/img.png');
 }
 
 function setup() {
