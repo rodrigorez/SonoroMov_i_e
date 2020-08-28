@@ -24,7 +24,7 @@ let revealSizeY = 0;
 let img;
 
 function preload() {
-  img = loadImage('http://rodrigorez.github.io/SonoroMov_i_e/img/img.png');
+  img = loadImage('img.png');
 }
 
 function setup() {
