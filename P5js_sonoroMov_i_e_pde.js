@@ -119,7 +119,7 @@ function draw() {
   if (press == Npress) {
     imgFx(cImgFx);
   } else {
-    cImgFx = int(random(0, 9));
+    cImgFx = int(random(0, 6));
    print(cImgFx);
     mudaTot();
   }
