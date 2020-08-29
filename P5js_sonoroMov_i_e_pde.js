@@ -206,7 +206,7 @@ function imgFx(imgFx) {
 
   switch(imgFx) {
   case 0: 
-    filter(THRESHOLD, map(px, 0, windowWidth, 0.16, 0.83));
+    filter(THRESHOLD, map(px, 0, windowWidth, 0.10, 0.75));
     break;
     //======================================================= 
   case 1:
