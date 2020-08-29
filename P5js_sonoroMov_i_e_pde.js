@@ -120,6 +120,7 @@ function draw() {
     imgFx(cImgFx);
   } else {
     cImgFx = int(random(0, 9));
+   print(cImgFx);
     mudaTot();
   }
   if (mouseIsPressed) {
